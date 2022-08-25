@@ -1,0 +1,3 @@
+/Users/Javlonbek/CLionProjects/For_c++_projects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Javlonbek/CLionProjects/For_c++_projects/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Javlonbek/CLionProjects/For_c++_projects/cmake-build-debug/CMakeFiles/For_c___projects.dir
